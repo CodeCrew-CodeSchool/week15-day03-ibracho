@@ -1,0 +1,15 @@
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\bin\Debug\net8.0\tiktaktoe.exe
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\bin\Debug\net8.0\tiktaktoe.deps.json
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\bin\Debug\net8.0\tiktaktoe.runtimeconfig.json
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\bin\Debug\net8.0\tiktaktoe.dll
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\bin\Debug\net8.0\tiktaktoe.pdb
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.AssemblyInfoInputs.cache
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.AssemblyInfo.cs
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.csproj.CoreCompileInputs.cache
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.sourcelink.json
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.dll
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\refint\tiktaktoe.dll
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.pdb
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\tiktaktoe.genruntimeconfig.cache
+C:\Users\Isabe\Documents\Dev\week15-day03-ibracho\tiktaktoe\obj\Debug\net8.0\ref\tiktaktoe.dll
